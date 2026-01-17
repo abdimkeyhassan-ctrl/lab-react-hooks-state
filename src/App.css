@@ -40,3 +40,26 @@
 .read-the-docs {
   color: #888;
 }
+.app {
+  padding: 20px;
+  min-height: 100vh;
+  transition: all 0.3s ease;
+}
+
+/* Light Mode Styles */
+.light {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Dark Mode Styles */
+.dark {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.cart-section {
+  border-top: 2px solid #ccc;
+  margin-top: 20px;
+  padding-top: 10px;
+}
